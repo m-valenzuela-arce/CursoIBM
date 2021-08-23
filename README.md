@@ -1,2 +1,2 @@
 # CursoIBM
-Repositorio creado para el curso de IBM Data Science Tolls
+Repositorio creado para el curso de IBM Data Science Tools.
